@@ -1,0 +1,58 @@
+.shadow {
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.card-icon {
+  margin-bottom: 1.34rem;
+}
+.card-header {
+  margin-bottom: 0.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-header-text {
+  color: #333333;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.card-content {
+  max-width: 18.43rem;
+  margin-bottom: 2rem;
+}
+.card-content-text {
+  color: #535353;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.card-footer-text {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffa300;
+}
+.section6-cards-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+.section6-header {
+  font-family: Be Vietnam Pro;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 51px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #333333;
+}

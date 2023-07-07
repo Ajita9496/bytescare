@@ -1,0 +1,99 @@
+.block4{
+    width: 100%;
+    padding: 3.43rem 6.25rem 3.75rem 0rem; 
+    background-color:#262833 ;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    gap: 4.37rem;
+}
+.block4-header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.block4-header p{
+font-family: Be Vietnam Pro;
+font-size: 3rem;
+font-weight: 700;
+line-height: 51px;
+text-align: left;
+color: #F0F0F0;
+margin:0;
+padding: 0;
+}
+
+.block4-image{
+    width: 100%
+}
+.block4-image-container{
+    width: 100%;
+}
+.block4-drop-down{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    gap: 1.25rem
+}
+.block4-subheading{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items:last baseline;
+    gap: 1.25rem
+}
+.block4-text-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:flex-start;
+    gap:1.25rem
+    
+}
+.block4-content{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.block4-subheading p{
+width: 100%;
+font-size: 1.5rem;
+font-weight: 500;
+line-height: 30px;
+text-align:justify;
+color:#FFA300;
+margin: 0;
+padding-top: 2.5rem;
+}
+
+.block4-content p{
+max-width: 40rem;
+font-family: Poppins;
+font-size: 1.25rem;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align:justify;
+color: #F0F0F0;
+padding: 0;
+margin: 0;
+}
+.list-options{
+  margin-top: 0;
+  padding-inline-start: 0;
+}
+
+.block4-arrows{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left:-5.14rem;
+    gap: 2.8125rem;
+    margin-top:3rem
+}

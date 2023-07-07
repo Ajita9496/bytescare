@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+  }
+  html, body {
+    width: 100%;
+  }
+    
+.home-page-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.home-page-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:3.75rem;
+    width: 100%;
+}
+
+.page-section{
+    width: 100%;
+}
+
+
+
+

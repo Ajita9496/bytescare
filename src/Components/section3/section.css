@@ -1,0 +1,80 @@
+.block3-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0rem 6.25rem;
+  margin: 0;
+  gap: 1.25rem;
+}
+.block3-header p {
+  font-family: Be Vietnam Pro;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  padding: 0;
+  margin: 0;
+  /* margin-bottom: 1.25rem; */
+  text-align: left;
+  color: #333333;
+}
+
+.block3-subheading p {
+  font-family: Be Vietnam Pro;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 51px;
+  padding: 0;
+  margin: 0;
+  /* margin-bottom: 1.25rem; */
+  text-align: left;
+  color: #333333;
+}
+.block3-subheading span {
+  color: #ffa300;
+}
+.block3-content {
+  padding: 0;
+}
+.block3-content p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  padding: 0 5rem;
+  margin: 0;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #535353;
+}
+
+.cards-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3.125rem;
+  margin-top: 1.87rem;
+  width: 100%;
+}
+.cards-row-1 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.cards-row-2 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+/* .card{
+    width: 22.5rem;
+    height: 20.9rem;
+} */
